@@ -7,7 +7,7 @@ The generated plots can be modified and used in a paper, documentation or your T
 - crop the view
 - add horizontal and vertical lines
 - name axis
-- change x-axis unit (s , ms, ns, us)
+- change x-axis unit (s , ms, us, ns)
 - thoroughly commented code
 - large amount of sample data
 
@@ -28,6 +28,7 @@ png should be smaller then jpeg, as the background is simply white.
 You can also save as SVG
 
 ## example
+lock into the FiguresOutput folder to see some examples
 ### Screenshot from Oscilloscope
 
 <img src="osziData/scope_22.png" alt="Oscilloscope Screenshot" width="600">
